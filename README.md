@@ -1,21 +1,13 @@
-## Hi there 👋
+**Hello! My name is i7366464 👋**
+
+Welcome to my GitHub page! This is where I share projects, learning outcomes, and technological explorations.
+
+**About me**
+
+- Webstie: [rxzup.com](https://rxzup.com)
+
+- Contact: [Email](i@renm.ing)
 
 
-
-
-| `nightowl` ![nightowl][nightowl] | `buefy` ![buefy][buefy] | `blue-green` ![blue-green][blue-green] |
-
-<!--
-**i7366464/i7366464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://github.com/i7366464/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i7366464&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/i7366464/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i7366464&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
